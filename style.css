@@ -1,0 +1,34 @@
+h1,h2{
+text-decoration: underline;
+font-style: italic;
+text-align: center;
+}
+#body{
+background-color: #FFF38C;
+border: red dotted;
+text-align: center;
+}
+.div{
+border: peru solid ;
+}
+*{
+letter-spacing: 1px;
+}
+a:link{
+color: black;
+}
+a:visited{
+color: #16213E;
+}
+a:hover{
+color: green;
+}
+a:active{
+color: blue;
+}
+ul li{
+ font-size: small;
+}
+table{
+	margin-left:45%
+}
